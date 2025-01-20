@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TouristSpotExplorer</string>
+    <string name="app_name">Tourist Spot Explorer</string>
+    <string name="fab_add_label">Add Spot</string>
 </resources>
